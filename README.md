@@ -2,11 +2,15 @@
 
 ### Hi there 👋
 
-### I'm Henrique.
+### I'm Henrique :dog:
 #### Nerd since 1996
 
-- 🔭 I’m currently working on COPEM ENGENHARIA LTDA
-- 🌱 I’m currently learning technologies like CSS3, HTML5, JavaScript, Python and PostgreSQL
+- :post-office: I’m working on COPEM ENGENHARIA LTDA
+- :running: I'm Electrical Engineering student, in the seventh period of college (there is still three periods until I graduate)
+- :computer: I’m learning technologies like CSS3, HTML5, JavaScript, Python and PostgreSQL
+- :zap: I'm learning English and Japanese
+- :notes: Amateur flutist, youth assistant and volunteer flute instructor at the Christian Congregation in Brazil.
+- :sunny: Passionate about astrophysics, aerospace engineering, programming, scientific books, technology, mountain biking.
 
 #### Professional profiles
 - [My LinkedIn profile](https://www.linkedin.com/in/henrique-matheus-alves-pereira);
