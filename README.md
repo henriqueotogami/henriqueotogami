@@ -11,7 +11,7 @@
 - :zap: I'm learning English and Japanese
 - :notes: Amateur flutist, youth assistant and volunteer flute instructor at the Christian Congregation in Brazil.
 - :sunny: Passionate about astrophysics, aerospace engineering, programming, scientific books, technology, mountain biking.
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 #### Professional profiles
 - [My LinkedIn profile](https://www.linkedin.com/in/henrique-matheus-alves-pereira);
 - [My Soucerer profile](https://www.sourcerer.io/henriquemap);
@@ -28,3 +28,10 @@
 - [My MultiSim profile](https://www.multisim.com/contributors/112018-henriquemap/);
 - [My StuDocu profile](https://www.studocu.com/pt-br/user/4137012);
 - [My AutoDesk TinkerCAD profile](https://www.tinkercad.com/users/fIvebGGsZCo-henrique-matheus-alves-pereira);
+-----------------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/CSS-34%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/HTML-51%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/JavaScript-36%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/Python-7%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/SQL-2%20commits-purple.svg" alt=""></a>
+<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/Wolfram-1%20commits-red.svg" alt=""></a>
