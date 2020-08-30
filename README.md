@@ -5,7 +5,7 @@
 ### I'm Henrique :dog:
 #### Nerd since 1996
 
-- :post-office: I’m working on COPEM ENGENHARIA LTDA
+- :post_office: I’m working on COPEM ENGENHARIA LTDA
 - :running: I'm Electrical Engineering student, in the seventh period of college (there is still three periods until I graduate)
 - :computer: I’m learning technologies like CSS3, HTML5, JavaScript, Python and PostgreSQL
 - :zap: I'm learning English and Japanese
