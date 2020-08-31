@@ -29,9 +29,6 @@
 - [My StuDocu profile](https://www.studocu.com/pt-br/user/4137012);
 - [My AutoDesk TinkerCAD profile](https://www.tinkercad.com/users/fIvebGGsZCo-henrique-matheus-alves-pereira);
 -----------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/CSS-34%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/HTML-51%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/JavaScript-36%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/Python-7%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/SQL-2%20commits-purple.svg" alt=""></a>
-<a href="https://sourcerer.io/henriquemap"><img src="https://img.shields.io/badge/Wolfram-1%20commits-red.svg" alt=""></a>
+[![Anurag's github stats](
+<https://github-readme-stats.vercel.app/api?username=HenriqueMAP>
+)](<https://github.com/HenriqueMAP/github-readme-stats>)
