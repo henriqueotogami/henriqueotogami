@@ -1,5 +1,7 @@
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/banner.png?raw=true">
 
+![](https://komarev.com/ghpvc/?username=HenriqueMAP&color=dc143c)
+
 ### Hi there 👋
 
 ### I'm Henrique :dog:
