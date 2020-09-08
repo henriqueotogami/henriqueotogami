@@ -31,6 +31,7 @@
 - [My StuDocu profile](https://www.studocu.com/pt-br/user/4137012);
 - [My AutoDesk TinkerCAD profile](https://www.tinkercad.com/users/fIvebGGsZCo-henrique-matheus-alves-pereira);
 -----------------------------------------------------------------------------------------------------------------------------------------------
-[![Anurag's github stats](
-<https://github-readme-stats.vercel.app/api?username=HenriqueMAP>
-)](<https://github.com/HenriqueMAP/github-readme-stats>)
+<div style="float">
+  <img style="margin:100" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&theme=monokai&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&theme=monokai&layout=compact">
+</div>
