@@ -1,9 +1,9 @@
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/banner.png?raw=true">
-
-### Hi there 👋
-
-### I'm Henrique :dog:
-#### Nerd since 1996
+<br>
+<h3><b>Hi there 👋</b></h3>
+<h3><b>I'm Henrique :dog:</b></h3>
+<h4><b>Nerd since 1996</b></h4>
+<br>
 <di>
   <ul>
     <li>:post_office: |<b> Work: </b> COPEM ENGENHARIA LTDA</li>
