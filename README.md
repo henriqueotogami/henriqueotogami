@@ -4,14 +4,21 @@
 
 ### I'm Henrique :dog:
 #### Nerd since 1996
-
-- :post_office: **Work:** COPEM ENGENHARIA LTDA
-- :running: **College:** Electrical Engineering, in the seventh period (there is still three periods until I graduate)
-- :computer: **Technology:** I'm learning CSS3, HTML5, JavaScript, Python and PostgreSQL
-- :zap: **Languages:** I'm learning English and Japanese
-- :notes: **Volunteering experience:** Amateur flutist, youth assistant and volunteer flute instructor at the Christian Congregation in Brazil
-- :sunny: **More:** Passionate about astrophysics, aerospace engineering, programming, scientific books, technology and mountain biking
-
+<di>
+  <ul>
+    <li>:post_office: |<b> Work: </b> COPEM ENGENHARIA LTDA</li>
+    <br>
+    <li>:running: |<b> College: </b> Electrical Engineering, in the seventh period (there is still three periods until I graduate)</li>
+    <br>
+    <li>:computer: |<b> Technology: </b> I'm learning CSS3, HTML5, JavaScript, Python and PostgreSQL</li>
+    <br>
+    <li>:zap: |<b> Languages: </b> I'm learning English and Japanese</li>
+    <br>
+    <li>:notes: |<b> Volunteering experience: </b> Amateur flutist, youth assistant and volunteer flute instructor at the Christian Congregation in Brazil</li>
+    <br>
+    <li>:sunny: |<b> More: </b> Passionate about astrophysics, aerospace engineering, programming, scientific books, technology, dogs and mountain biking</li>
+  </ul>
+</div>  
 <hr>
 <div style="float">
   <div>
