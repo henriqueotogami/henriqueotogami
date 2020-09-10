@@ -1,7 +1,5 @@
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/banner.png?raw=true">
 
-![](https://komarev.com/ghpvc/?username=HenriqueMAP&color=dc143c)
-
 ### Hi there 👋
 
 ### I'm Henrique :dog:
@@ -14,8 +12,10 @@
 - :notes: Amateur flutist, youth assistant and volunteer flute instructor at the Christian Congregation in Brazil.
 - :sunny: Passionate about astrophysics, aerospace engineering, programming, scientific books, technology, mountain biking.
 ---------------------------------------------------------------------------------------------------------------------------------------------
-#### Professional profiles
 
+#### Profiles: Professional
+
+<div style="float">
 <a href="https://www.linkedin.com/in/henrique-matheus-alves-pereira">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -23,11 +23,12 @@
 <a href="https://www.sourcerer.io/henriquemap">
   <img src="https://img.shields.io/static/v1?label=&message=Sourcerer&style=for-the-badge&color=149CFC">
 </a>
+</div>
 
-#### Profiles of technological studies
+#### Profiles: Technology
 
+<div style="float">
 <a href="https://app.rocketseat.com.br/me/henrique-matheus-alves-pereira-1595861149">
-  :rocket:
   <img src="https://img.shields.io/static/v1?label=&message=Rocketseat&style=for-the-badge&color=8160B4">
 </a>
                                                                                                                 
@@ -37,27 +38,32 @@
   
 <a href="https://docs.microsoft.com/pt-br/users/henriquematheusalvespereira/">
   <img src="https://img.shields.io/static/v1?label=&message=Microsoft%20Learn&style=for-the-badge&color=FC6406">
-</a> 
+</a>
+</div>
 
-#### Profiles of language studies
+#### Profile: Languages
 
+<div style="float">
 <a href="https://www.duolingo.com/profile/Henrique.Map">
   <img src="https://img.shields.io/static/v1?label=&message=Duolingo&style=for-the-badge&color=04E474">
-</a> 
+</a>
+</div>
 
-#### Profiles of Electrical Engineering studies
+#### Profiles: Electrical Engineering
 
+<div style="float">
 <a href="https://www.multisim.com/contributors/112018-henriquemap/">
-  <img src="https://img.shields.io/static/v1?label=&message=MultiSim&style=for-the-badge&color=3678D0">
+  <img src="https://img.shields.io/static/v1?label=&message=MultiSim&style=for-the-badge&color=3678D0"/>
 </a> 
 
-<a href="">
-  <img src="https://img.shields.io/static/v1?label=&message=StuDocu&style=for-the-badge&color=98C3ED">
+<a href="https://www.studocu.com/pt-br/user/4137012">
+  <img src="https://img.shields.io/static/v1?label=&message=StuDocu&style=for-the-badge&color=98C3ED"/>
 </a>
 
 <a href="https://www.tinkercad.com/users/fIvebGGsZCo-henrique-matheus-alves-pereira">
-  <img src="https://img.shields.io/static/v1?label=&message=TinkerCAD&style=for-the-badge&color=40A8B3">
+  <img src="https://img.shields.io/static/v1?label=&message=TinkerCAD&style=for-the-badge&color=40A8B3"/>
 </a> 
+</div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <div style="float">
