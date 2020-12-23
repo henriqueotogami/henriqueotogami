@@ -1,24 +1,7 @@
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/banner.png?raw=true">
-<br>
-<h3><b>Hi there 👋</b></h3>
-<h1><b>I'm Henrique :dog:</b></h1>
-<h3><b>Nerd since 1996</b></h3>
-<br>
-<di>
-  <ul>
-    <li>:post_office::zap: |<b> Work: </b> COPEM ENGENHARIA LTDA</li>
-    <br>
-    <li>:school_satchel::mortar_board: |<b> College: </b> Electrical Engineering, in the seventh period (there is still three periods until I graduate)</li>
-    <br>
-    <li>:iphone::computer: |<b> Technology: </b> I'm learning CSS3, HTML5, JavaScript, Python and PostgreSQL</li>
-    <br>
-    <li>:us::jp: |<b> Languages: </b> I'm learning English and Japanese</li>
-    <br>
-    <li>:musical_note::musical_note: |<b> Volunteering experience: </b> Amateur flutist, youth assistant and volunteer flute instructor at the Christian Congregation in Brazil</li>
-    <br>
-    <li>:sunny::mountain_bicyclist: |<b> More: </b> Passionate about astrophysics, aerospace engineering, programming, scientific books, technology, dogs and mountain biking</li>
-  </ul>
-</div>  
+<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-topo.png?raw=true">
+<br> 
+<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Componente%202.png?raw=true">
+<br> 
 <hr>
 <div style="float">
   <div>
