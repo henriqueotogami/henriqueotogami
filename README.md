@@ -57,3 +57,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&theme=monokai&layout=compact">
 </div>
 <hr>
+Credits: The Mandalorian by WallpaperCave https://wallpapercave.com/wp/wp5137573.png
