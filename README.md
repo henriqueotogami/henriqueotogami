@@ -1,5 +1,4 @@
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-topo.png?raw=true">
-<br> 
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Componente%202.png?raw=true">
 <br> 
 <hr>
