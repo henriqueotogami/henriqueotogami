@@ -1,5 +1,5 @@
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-topo.png?raw=true">
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Componente%202.png?raw=true">
+<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-superior.png?raw=true">
+<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-inferior.png?raw=true">
 <br> 
 <hr>
 <div style="float">
