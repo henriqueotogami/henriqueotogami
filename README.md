@@ -52,10 +52,12 @@
   </div>
 </div>
 <hr>
-  <div style="float">
-    <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&show_icons=true&cache_seconds=1800">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&layout=compact&langs_count=6&cache_seconds=1800">
+<center>
+  <div style="float" display="flex" flex-direction="row">
+    <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&show_icons=true&cache_seconds=1800">
+    <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800">
   </div>
+  </center>
   <!-- .div {display: flex; justify-content: space-between; flex-flow: row wrap flex: auto;} -->
 <hr>
 Credits: The Mandalorian by WallpaperCave https://wallpapercave.com/wp/wp5137573.png
