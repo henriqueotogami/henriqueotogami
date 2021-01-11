@@ -4,7 +4,7 @@
 <hr>
 
 <h3>Profiles / Contact</h3>
-
+<div>
 <a target="_blank" href="https://www.linkedin.com/in/henrique-matheus-alves-pereira">
   <img src="./svg/social/linkedin.svg">
 </a>
@@ -16,7 +16,7 @@
 <a target="_blank" href="https://web.digitalinnovation.one/users/henrique_map">
   <img src="./svg/social/Digital%20Innovation%20One.svg">
 </a>
-
+</div>
 <br>
 
 <h3>Articles</h3>
@@ -28,26 +28,26 @@
 <br>
 
 <h3>Technologies</h3>
-
+<div>
 <img src="./svg/dev/languages/css3.svg"> 
 <img src="./svg/dev/languages/html.svg">
 <img src="./svg/dev/languages/python.svg"> 
 <img src="./svg/dev/languages/swift.svg">
-
+</div>
 <br>
 
 <h3>Tools</h3>
-
+<div>
 <img src="./svg/dev/tools/visualstudio_code.svg"> 
 <img src="./svg/dev/tools/xcode.svg">
-
+</div>
 <br>
 
 <h3>Devices</h3>
-
+<div>
 <img src="./svg/devices/mac.svg"> 
 <img src="./svg/devices/pc.svg">
-
+</div>
 <hr>
 
 <center>
