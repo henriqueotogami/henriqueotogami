@@ -21,34 +21,32 @@
 
 <h3>Articles</h3>
 
-<code>
-  <a target="_blank" href="https://medium.com/@henrique.map">
-    <img src="./svg/blogs/medium.svg">
-  </a>
-</code> 
+<a target="_blank" href="https://medium.com/@henrique.map">
+  <img src="./svg/blogs/medium.svg">
+</a>
 
 <br>
 
 <h3>Technologies</h3>
 
-<code><img src="./svg/dev/languages/css3.svg"></code> 
-<code><img src="./svg/dev/languages/html.svg"></code>
-<code><img src="./svg/dev/languages/python.svg"></code> 
-<code><img src="./svg/dev/languages/swift.svg"></code>
+<img src="./svg/dev/languages/css3.svg"> 
+<img src="./svg/dev/languages/html.svg">
+<img src="./svg/dev/languages/python.svg"> 
+<img src="./svg/dev/languages/swift.svg">
 
 <br>
 
 <h3>Tools</h3>
 
-<code><img src="./svg/dev/tools/visualstudio_code.svg"></code> 
-<code><img src="./svg/dev/tools/xcode.svg"></code>
+<img src="./svg/dev/tools/visualstudio_code.svg"> 
+<img src="./svg/dev/tools/xcode.svg">
 
 <br>
 
 <h3>Devices</h3>
 
-<code><img src="./svg/devices/mac.svg"></code> 
-<code><img src="./svg/devices/pc.svg"></code>
+<img src="./svg/devices/mac.svg"> 
+<img src="./svg/devices/pc.svg">
 
 <hr>
 
