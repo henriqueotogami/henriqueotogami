@@ -20,11 +20,11 @@
 <br>
 
 <h3>Articles</h3>
-
+<div>
 <a target="_blank" href="https://medium.com/@henrique.map">
   <img src="./svg/blogs/medium.svg">
 </a>
-
+</div>
 <br>
 
 <h3>Technologies</h3>
