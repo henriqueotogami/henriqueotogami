@@ -53,7 +53,7 @@
 <center>
   <div style="float" display="flex" flex-direction="row">
     <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&show_icons=true&cache_seconds=1800">
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800">
+    <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800">  
   </div>
 </center>
 
@@ -62,3 +62,4 @@
 Credits: 
 - [The Mandalorian by WallpaperCave](https://wallpapercave.com/w/wp5137596)
 - [Colored Badges for GitHub profiles](https://github.com/MikeCodesDotNET/ColoredBadges)
+- [GitHub ReadeME Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
