@@ -62,4 +62,4 @@
 Credits: 
 - [The Mandalorian by WallpaperCave](https://wallpapercave.com/w/wp5137596)
 - [Colored Badges for GitHub profiles](https://github.com/MikeCodesDotNET/ColoredBadges)
-- [GitHub ReadeME Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub ReadME Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
