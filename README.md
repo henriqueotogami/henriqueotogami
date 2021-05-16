@@ -1,6 +1,12 @@
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-superior.png?raw=true">
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/Capa-inferior.png?raw=true">
-<br> 
+<center>
+  <div style="float" display="flex" flex-direction="row">
+    <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
+    <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=6">  
+  </div>
+</center>
+
+<hr>
+<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao2-16-05-21.png?raw=true">
 <hr>
 
 <h3>Profiles / Contact</h3>
@@ -25,37 +31,6 @@
   <img src="./svg/blogs/medium.svg">
 </a>
 </div>
-<br>
-
-<h3>Technologies</h3>
-<div>
-<img src="./svg/dev/languages/css3.svg"> 
-<img src="./svg/dev/languages/html.svg">
-<img src="./svg/dev/languages/python.svg"> 
-<img src="./svg/dev/languages/swift.svg">
-</div>
-<br>
-
-<h3>Tools</h3>
-<div>
-<img src="./svg/dev/tools/visualstudio_code.svg"> 
-<img src="./svg/dev/tools/xcode.svg">
-</div>
-<br>
-
-<h3>Devices</h3>
-<div>
-<img src="./svg/devices/mac.svg"> 
-<img src="./svg/devices/pc.svg">
-</div>
-<hr>
-
-<center>
-  <div style="float" display="flex" flex-direction="row">
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=2E2E35&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=6">  
-  </div>
-</center>
 
 <hr>
 
