@@ -2,7 +2,10 @@
   <div style="float" display="flex" flex-direction="row">
     <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
     <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> 
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP">  
+    </div>
+  <div>
+    <img flex="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP">
+    <img flex="auto" width=350 src="https://wakatime.com/share/@HenriqueMAP/696beae4-b87a-4e2b-ac70-c5d2492ca201.svg">
   </div>
 </center>
 
