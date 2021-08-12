@@ -6,8 +6,6 @@
   </div>
 </center>
 
- [![ 's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr>
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao4-3-07-21.png?raw=true">
 <hr>
