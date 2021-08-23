@@ -1,13 +1,16 @@
-<center>
-  <div style="float" display="flex" flex-direction="row">
+
+<div align="center">
     <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
     <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> 
-    </div>
-  <div>
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP">
-    <img flex="auto" width=350 src="https://wakatime.com/share/@HenriqueMAP/696beae4-b87a-4e2b-ac70-c5d2492ca201.svg">
-  </div>
-</center>
+</div>
+<br>
+<div align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP">
+  <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">  
+</div>
+
+
+<!--<img flex="auto" width=350 src="https://wakatime.com/share/@HenriqueMAP/696beae4-b87a-4e2b-ac70-c5d2492ca201.svg">-->
 
 <hr>
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao4-3-07-21.png?raw=true">
@@ -42,3 +45,4 @@ Credits:
 - [The Mandalorian by WallpaperCave](https://wallpapercave.com/w/wp5137596)
 - [Colored Badges for GitHub profiles](https://github.com/MikeCodesDotNET/ColoredBadges)
 - [GitHub ReadME Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+- [Github Readme Streak Stats by DenverCode1](https://github.com/DenverCoder1/github-readme-streak-stats)
