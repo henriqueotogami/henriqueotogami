@@ -5,8 +5,8 @@
 </div>
 <br>
 <div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP">
-  <img width="450" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">  
+  <img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP">
+  <img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">  
 </div>
 
 
