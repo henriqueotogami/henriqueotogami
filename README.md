@@ -1,21 +1,30 @@
 
-<div align="center">
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
-    <img flex="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> 
-</div>
-<br>
-<div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true">
-  <img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">  
-</div>
+<details>
+<summary>Github stats<summary>
+<img flex="auto" width=300 src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
+</details>
+        
+<details>
+ <summary>Most used languages<summary>
+ <img flex="auto" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> 
+</details>
 
-
-<!--<img flex="auto" width=350 src="https://wakatime.com/share/@HenriqueMAP/696beae4-b87a-4e2b-ac70-c5d2492ca201.svg">-->
+<details>
+    <summary>Wakatime stats<summary>
+<img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true">
+</details>
+    
+<details>
+<summary>Streak stats<summary>
+<img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">  
+</details>
 
 <hr>
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao4-3-07-21.png?raw=true">
+<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao5-28-01-22.png?raw=true">
 <hr>
 
+<details>
+<summary>Informations<summary>   
 <h3>Profiles / Contact</h3>
 <div>
 <a target="_blank" href="https://www.linkedin.com/in/henrique-matheus-alves-pereira">
@@ -38,11 +47,16 @@
   <img src="./svg/blogs/medium.svg">
 </a>
 </div>
-
+</details>
+    
 <hr>
 
-Credits: 
+<details>
+<summary>Credits<summary>
+        
 - [The Mandalorian by WallpaperCave](https://wallpapercave.com/w/wp5137596)
 - [Colored Badges for GitHub profiles](https://github.com/MikeCodesDotNET/ColoredBadges)
 - [GitHub ReadME Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 - [Github Readme Streak Stats by DenverCode1](https://github.com/DenverCoder1/github-readme-streak-stats)
+        
+</details>
