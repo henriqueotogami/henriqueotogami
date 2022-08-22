@@ -11,7 +11,7 @@
 
 <details>
     <summary>Wakatime stats</summary>
-<img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true">
+<img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&langs_count=8">
 </details>
     
 <details>
