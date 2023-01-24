@@ -1,27 +1,21 @@
-
-<details>
-    <summary>Github stats</summary>
-    <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true">
-</details>
-        
-<details>
-    <summary>Most used languages</summary>
-    <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> 
-</details>
-
-<details>
-    <summary>Wakatime stats</summary>
-<img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&langs_count=8">
-</details>
+<div align="center">
     
-<details>
-<summary>Streak stats</summary>
-<img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">  
-</details>
+| Resume Contribution | Languages Experience |
+| ------------------- | -------------------- |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> |
+    
+</div>
 
-<hr>
+
 <img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao6-13-01-23.png?raw=true">
-<hr>
+
+<div align="center">
+    
+| Total Contribution | Time-based Languages |
+| ------------------ | ------------------ |
+| <img flex="auto" width=500 src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&langs_count=8"> |
+
+</div>
 
 <details>
 <summary>Informations</summary>   
