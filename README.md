@@ -2,7 +2,7 @@
     
 | Resume Contribution | Languages Experience |
 | ------------------- | -------------------- |
-| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=dark&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202021&text_color=D9D9D9&hide_border=true&layout=compact&langs_count=8"> |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6"> |
     
 </div>
 
@@ -13,7 +13,7 @@
     
 | Total Contribution | Time-based Languages |
 | ------------------ | ------------------ |
-| <img flex="auto" width=500 src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&include_all_commits=true&show_icons=true"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueMAP&title_color=FFB719&icon_color=FFB719&bg_color=202024&text_color=D9D9D9&hide_border=true&langs_count=8"> |
+| <img flex="auto" width=500 src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&theme=aura&hide_border=true&include_all_commits=true&show_icons=true"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=henriquemap&theme=aura&hide_border=true&langs_count=6"> |
 
 </div>
 
