@@ -17,31 +17,13 @@
 
 </div>
 
-<details>
-<summary>Informations</summary>   
-<h3>Profiles / Contact</h3>
-<div>
-<a target="_blank" href="https://www.linkedin.com/in/henrique-matheus-alves-pereira">
-  <img src="./svg/social/linkedin.svg">
-</a>
+<div align="center">
+    
+| Instagram | LinkedIn | Twitter | Rocketseat | DIO | Medium |
+| --------- | -------- | ------- | ---------- | --- | ------ |
+| [![](./instagram-button-1.png)](https://www.instagram.com/henriqueotogami) | [![](./linkedin-button-1.png)](https://www.linkedin.com/in/henrique-matheus-alves-pereira) | [![](./twitter-button-1.png)](https://www.twitter.com/henriqueotogami) | [![](./rocketseat-button-1.png)](https://app.rocketseat.com.br/me/henrique-matheus-alves-pereira-1595861149) | [![](./dio-button-1.png)](https://web.digitalinnovation.one/users/henrique_map) | [![](./medium-button-1.png)](https://medium.com/@henrique.map) |
 
-<a target="_blank" href="https://app.rocketseat.com.br/me/henrique-matheus-alves-pereira-1595861149">
-  <img src="./svg/social/Rocketseat.svg">
-</a>
-
-<a target="_blank" href="https://web.digitalinnovation.one/users/henrique_map">
-  <img src="./svg/social/Digital%20Innovation%20One.svg">
-</a>
 </div>
-<br>
-
-<h3>Articles</h3>
-<div>
-<a target="_blank" href="https://medium.com/@henrique.map">
-  <img src="./svg/blogs/medium.svg">
-</a>
-</div>
-</details>
     
 <hr>
 
