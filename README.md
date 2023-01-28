@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://wakatime.com/@1e53636e-c916-4d50-9ce1-f3ac75a883e3"><img src="https://wakatime.com/badge/user/1e53636e-c916-4d50-9ce1-f3ac75a883e3.svg" alt="Total time coded since Jan 30 2021" /></a>
-</br>
+</div>
 <br>
 <div align="center">
     
