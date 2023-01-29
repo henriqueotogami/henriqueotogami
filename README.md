@@ -6,7 +6,7 @@
     
 | Resume Contribution | Languages Experience |
 | ------------------- | -------------------- |
-| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6"> |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
     
 </div>
 
