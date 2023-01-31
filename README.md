@@ -6,18 +6,18 @@
     
 | Resume Contribution | Languages Experience |
 | ------------------- | -------------------- |
-| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriquemap&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMAP&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriqueotogami&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueotogami&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
     
 </div>
 
 
-<img width="auto" src="https://github.com/HenriqueMAP/HenriqueMap/blob/master/GitHub-Versao6-13-01-23.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/henriqueotogami/blob/master/GitHub-Versao6-13-01-23.png?raw=true">
 
 <div align="center">
     
 | Total Contribution | Time-based Languages |
 | ------------------ | ------------------ |
-| <img flex="auto" width=500 src="https://github-readme-stats.vercel.app/api?username=HenriqueMAP&theme=aura&hide_border=true&include_all_commits=true&show_icons=true"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=henriquemap&theme=aura&hide_border=true&langs_count=6"> |
+| <img flex="auto" width=500 src="https://github-readme-stats.vercel.app/api?username=henriqueotogami&theme=aura&hide_border=true&include_all_commits=true&show_icons=true"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=henriqueotogami&theme=aura&hide_border=true&langs_count=6"> |
 
 </div>
 
