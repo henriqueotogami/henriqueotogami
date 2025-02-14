@@ -9,10 +9,9 @@
 | <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriqueotogami&theme=shades-of-purple&hide_border=true">   | <img flex="auto" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueotogami&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
     
 </div>
-
-
-<img width="auto" src="https://github.com/henriqueotogami/henriqueotogami/blob/master/GitHub-Versao6-13-01-23.png?raw=true">
-
+<br>
+<img width="auto" src="https://github.com/henriqueotogami/henriqueotogami/blob/master/GitHub-Versao-7-Feb-25.png">
+<br>
 <div align="center">
     
 | Total Contribution | Time-based Languages |
@@ -21,20 +20,28 @@
 
 </div>
 
-<div align="center">
-    
-| Instagram | LinkedIn | Twitter | Rocketseat | DIO | Medium |
-| --------- | -------- | ------- | ---------- | --- | ------ |
-| [![](./instagram-button-1.png)](https://www.instagram.com/henriqueotogami) | [![](./linkedin-button-1.png)](https://www.linkedin.com/in/henrique-matheus-alves-pereira) | [![](./twitter-button-1.png)](https://www.twitter.com/henriqueotogami) | [![](./rocketseat-button-1.png)](https://app.rocketseat.com.br/me/henrique-matheus-alves-pereira-1595861149) | [![](./dio-button-1.png)](https://web.digitalinnovation.one/users/henrique_map) | [![](./medium-button-1.png)](https://medium.com/@henrique.map) |
+<br>
 
-</div>
-    
+# 📝 Leia meus artigos
+
+### [Artigos no Medium](https://medium.com/@henriqueotogami)
+### [Artigos no Dev.to](https://dev.to/henriqueotogami)
+
+<br>
+
+# 💼 Conecte-se comigo
+### [Perfil no LinkedIn](https://www.linkedin.com/in/henrique-matheus-alves-pereira)
+
+<br>
+
+# 🙏🏻 Apoie meu conteúdo
+### [Compre-me um cafézinho | Buy me a coffee](https://ko-fi.com/henriqueotogami) ☕
+
 <hr>
 
 <details>
 <summary>Credits</summary>
-        
-- [The Mandalorian by WallpaperCave](https://wallpapercave.com/w/wp5137596)
+    
 - [Colored Badges for GitHub profiles](https://github.com/MikeCodesDotNET/ColoredBadges)
 - [GitHub ReadME Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
 - [Github Readme Streak Stats by DenverCode1](https://github.com/DenverCoder1/github-readme-streak-stats)
