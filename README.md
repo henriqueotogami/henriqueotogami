@@ -38,7 +38,7 @@
 
 ## 🙏🏻 Apoie meu conteúdo
 
-<a href="https://ko-fi.com/henriqueotogami/tips" target="_blank"><img width="500" src="https://github.com/henriqueotogami/data-structure/blob/main/resources/kofi-henrique-otogami.jpg?raw=true"></a>
+<a href="https://ko-fi.com/henriqueotogami/tip" target="_blank"><img width="500" src="https://github.com/henriqueotogami/data-structure/blob/main/resources/kofi-henrique-otogami.jpg?raw=true"></a>
 <hr>
 
 <details>
