@@ -7,7 +7,7 @@
 
 | Resume Contribution | Languages Experience |
 | ------------------- | -------------------- |
-| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriqueotogami&theme=shades-of-purple&hide_border=true"> | width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueotogami&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriqueotogami&theme=shades-of-purple&hide_border=true"> | <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueotogami&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
 
 </div>
 
@@ -38,9 +38,8 @@
 </div>
 <br>
 <hr>
-<br>
 
-**Engenheiro Eletricista | Sistemas embarcados | Firmware e integração de dispositivos**
+### **Engenheiro Eletricista | Sistemas embarcados | Firmware e integração de dispositivos**
 
 Sou **engenheiro eletricista** com atuação no desenvolvimento e integração de **sistemas embarcados**, trabalhando na interface entre dispositivos físicos, firmware e sistemas de gerenciamento.
 
@@ -59,7 +58,7 @@ Atualmente desenvolvo **firmware** para placas eletrônicas com comunicação re
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -67,11 +66,6 @@ Atualmente desenvolvo **firmware** para placas eletrônicas com comunicação re
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <br/>
-<br/>
-<br/>
-
----
-
 <br>
 
 <details>
