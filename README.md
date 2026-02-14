@@ -7,7 +7,7 @@
 
 | Resume Contribution | Languages Experience |
 | ------------------- | -------------------- |
-| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriqueotogami&theme=shades-of-purple&hide_border=true"> | <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueotogami&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
+| <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=henriqueotogami&theme=shades-of-purple&hide_border=true"> | <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=henriqueotogami&theme=shades-of-purple&hide_border=true&layout=compact&langs_count=6&exclude_repo=Aula-Django,flask-rest-api&hide=jupyter%20notebook,javascript"> |
 
 </div>
 
@@ -17,7 +17,7 @@
 
 | Total Contribution | Time-based Languages |
 | ------------------ | -------------------- |
-| <img width="500" src="https://github-readme-stats.vercel.app/api?username=henriqueotogami&theme=aura&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats"> | <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=henriqueotogami&theme=aura&hide_border=true&langs_count=6" alt="WakaTime"> |
+| <img width="500" src="https://github-stats-extended.vercel.app/api?username=henriqueotogami&theme=aura&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats"> | <img width="500" src="https://github-stats-extended.vercel.app/api/wakatime?username=henriqueotogami&theme=aura&hide_border=true&langs_count=6" alt="WakaTime"> |
 
 </div>
 
