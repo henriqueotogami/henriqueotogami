@@ -54,8 +54,7 @@ Atualmente desenvolvo **firmware** para placas eletrônicas com comunicação re
 - 🐧 **Firmware embarcado em ambiente Linux** com comunicação remota via rede celular por meio de modems **Quectel** e **Gemalto**
 - 📡 **Comunicação remota via rede celular** (GPRS, 3G, Cat-M1 e NB-IoT), garantindo envio confiável das informações para plataformas de monitoramento e gestão em nuvem
 - 📲 **Bluetooth Low Energy (BLE)** para leitura e diagnóstico em campo, facilitando manutenção e validação dos dispositivos instalados
-- 📋 **Protocolos industriais** e diferentes modelos de medidores: **easyTRAFO** (ABNT NBR 14519) e **Zeus** (DLMS/COSEM), assegurando interoperabilidade entre dispositivos
-
+- 📋 **Protocolos industriais** e diferentes modelos de medidores
 ---
 
 ### Tecnologias
